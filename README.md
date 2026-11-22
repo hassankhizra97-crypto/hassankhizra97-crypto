@@ -264,7 +264,7 @@ Currently exploring the world of machine learning, intelligent systems and softw
 
 <br/>
 
-୨୧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ୨୧
+<p align="center">୨୧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ୨୧</p>
 
 <sub><p align="center">made with curiosity & a little bit of pink ♡</p></sub>
 
