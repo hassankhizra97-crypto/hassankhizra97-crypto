@@ -1,194 +1,248 @@
 <div align="center">
 
-# KHIZRA HASSAN
-
-**COMPUTER SCIENCE · MACHINE LEARNING · SOFTWARE ENGINEERING**
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=16&duration=3500&pause=1200&color=666666&center=true&vCenter=true&width=700&lines=Developing+intelligent+software+systems.;Exploring+applied+machine+learning.;Engineering+reliable+backend+architectures.;Researching+AI+safety+and+agentic+systems." alt="Professional introduction"/>
-
-<br/>
-
-[GitHub](https://github.com/hassankhizra97-crypto) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/khizra-hassan--/) &nbsp; · &nbsp; [Email](mailto:khizra.hassan394@gmail.com)
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-`01 — PROFILE`
-
-</div>
-
-## About
-
-Computer Science undergraduate focused on **machine learning, intelligent systems, and backend software engineering**.
-
-Interested in translating technical concepts into practical systems through experimentation, implementation, and research. My work spans applied machine learning, AI safety, computer vision, and backend application development.
-
-Currently focused on:
-
-- Developing and evaluating machine learning pipelines.
-- Exploring safety mechanisms for persistent and agentic AI systems.
-- Designing backend services and relational database architectures.
-- Strengthening foundations in algorithms, systems programming, and software design.
+<table width="100%">
+<tr>
+<td align="left" width="30%">
+<b>KHIZRA<br/>HASSAN.</b>
+</td>
+<td align="center" width="45%">
+<a href="#home">HOME</a> &nbsp;&nbsp;
+<a href="#projects">PROJECTS</a> &nbsp;&nbsp;
+<a href="#about">ABOUT</a>
+</td>
+<td align="right" width="25%">
+<a href="mailto:khizra.hassan394@gmail.com">LET'S CONNECT ↗</a>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+<a name="home"></a>
 
-`02 — TECHNICAL COMPETENCIES`
+<br/>
+
+<sub>● COMPUTER SCIENCE · MACHINE LEARNING · SOFTWARE ENGINEERING</sub>
+
+# BUILDING INTELLIGENT<br/>SYSTEMS & SOFTWARE.
+
+*Developing practical software through machine learning, research, and thoughtful engineering.*
+
+<br/>
+
+[ VIEW PROJECTS ↘ ](#projects) &nbsp;&nbsp; [ GITHUB ↗ ](https://github.com/hassankhizra97-crypto) &nbsp;&nbsp; [ LINKEDIN ↗ ](https://www.linkedin.com/in/khizra-hassan--/)
+
+<br/>
 
 </div>
 
-## Technologies & Tools
+<table width="100%">
+<tr>
+<td width="35%" valign="top">
 
-**Programming Languages**
+### KHIZRA HASSAN
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=light" />
-</p>
+`COMPUTER SCIENCE`
 
-**Machine Learning & Computer Vision**
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" />
-</p>
-
-**Backend & Data Engineering**
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite&theme=light" />
-</p>
-
-**Development Environment**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=light" />
-</p>
+Karachi, Pakistan
 
 ---
 
+**DISCIPLINES**
+
+Machine Learning
+
+Backend Engineering
+
+Applied Research
+
+---
+
+**CURRENT FOCUS**
+
+Intelligent Systems
+
+AI Safety
+
+Computer Vision
+
+</td>
+<td width="65%" valign="top">
+
+### PROFILE
+
+I am a Computer Science undergraduate interested in engineering intelligent systems and building reliable software.
+
+My work combines applied machine learning, experimental research, and backend development. I enjoy exploring complex technical problems and turning ideas into functional implementations.
+
+<br/>
+
+| AREA | FOCUS |
+|:---|:---|
+| MACHINE LEARNING | Model experimentation & evaluation |
+| AI RESEARCH | Agent safety & memory governance |
+| SOFTWARE | Backend architecture & APIs |
+| COMPUTER SCIENCE | Algorithms & systems programming |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<a name="projects"></a>
+
 <div align="center">
 
-`03 — SELECTED PROJECTS`
+<sub>01 — SELECTED WORK</sub>
+
+# PROJECTS
+
+*Selected research, engineering and development work.*
 
 </div>
 
-## Research & Engineering
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 01 / MAASF
+
 **Memory-Aware Agent Safety Framework**
 
-`AI SAFETY` · `AGENTIC SYSTEMS` · `EXPERIMENTAL RESEARCH`
+`AI SAFETY` · `AGENTIC SYSTEMS`
 
-Research into safety risks in persistent, multi-session AI agents, with an emphasis on how stored information influences subsequent agent decisions and actions.
-
-**Key engineering components**
+Research into safety mechanisms for persistent, multi-session AI agents.
 
 - Provenance-aware memory governance.
 - Multi-session trajectory monitoring.
 - Fail-closed action authorization.
-- Belief-to-action provenance tracking.
+- Belief-to-action provenance chain.
 
-**Research focus:** Establishing traceability between information entering agent memory, evolving beliefs, and downstream actions.
+**MY CONTRIBUTION**
 
-[EXPLORE REPOSITORY ↗](https://github.com/hassankhizra97-crypto/Memory-Aware-Agentic-Safety-Framework-MAASF-)
+Research, architecture and experimental evaluation.
 
----
+[EXPLORE PROJECT ↗](https://github.com/hassankhizra97-crypto/Memory-Aware-Agentic-Safety-Framework-MAASF-)
+
+</td>
+<td width="50%" valign="top">
 
 ### 02 / MARS TERRAIN EXPLORER
-**Machine Learning for Planetary Terrain Reconstruction**
 
-`COMPUTER VISION` · `DEPTH ESTIMATION` · `3D RECONSTRUCTION`
+**3D Planetary Terrain Reconstruction**
 
-A planetary terrain exploration project using NASA rover imagery and stereo-derived terrain information to support three-dimensional reconstruction and navigation.
+`MACHINE LEARNING` · `COMPUTER VISION`
 
-**ML contribution**
+A Mars terrain exploration project using NASA rover imagery and stereo-derived terrain data.
 
-- Implementing and evaluating monocular depth-estimation models.
-- Comparing predicted depth against stereo-derived reference data.
-- Investigating depth prediction quality and geometric consistency.
-- Supporting integration of machine learning outputs into the terrain reconstruction pipeline.
+- Monocular depth estimation.
+- Model comparison and evaluation.
+- Stereo-based depth validation.
+- Integration with 3D terrain reconstruction.
 
-**Research focus:** Evaluating the potential of learned depth estimation to complement traditional stereo-based terrain reconstruction.
+**MY CONTRIBUTION**
+
+Machine learning and depth-estimation experimentation.
 
 [EXPLORE PROJECT ↗](https://nasa-space-apps-project-green.vercel.app/)
 
----
-
-<!--### 03 / FRIDGEWISE
-**Inventory Management & Expiry Tracking**
-
-`PYTHON` · `FASTAPI` · `POSTGRESQL` · `REACT`
-
-A full-stack application for managing household food inventory and monitoring product expiry.
-
-**Engineering focus**
-
-- React-based application interface.
-- REST API development using FastAPI.
-- Relational database design with PostgreSQL.
-- Database migrations, authentication, and background task scheduling.
-
-*Currently developing the backend architecture and application infrastructure.*-->
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-`04 — DEVELOPMENT ACTIVITY`
+<sub>02 — CURRENT ENGINEERING</sub>
+
+# WHAT I'M BUILDING
 
 </div>
 
-## Open-source & Coding Activity
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### FRIDGEWISE
+
+`BACKEND ENGINEERING` · `PYTHON`
+
+A smart inventory management application focused on food tracking and expiry management.
+
+Working with FastAPI, PostgreSQL, SQLAlchemy and database migrations.
+
+</td>
+<td width="50%" valign="top">
+
+### GRIDGUARD
+
+`C++` · `DATA STRUCTURES`
+
+An infrastructure-focused simulation project applying data structures and algorithmic problem-solving to grid management and fault-handling workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+<a name="about"></a>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassankhizra97-crypto&bg_color=ffffff&color=555555&line=555555&point=111111&area=true&area_color=eeeeee&hide_border=true&custom_title=Contribution%20History" width="100%" alt="GitHub contribution history"/>
+<sub>03 — TECHNICAL PROFILE</sub>
+
+# TOOLS & TECHNOLOGIES
 
 </div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**PROGRAMMING**
+
+Python · C++ · C
+
+**MACHINE LEARNING**
+
+PyTorch · OpenCV
+
+</td>
+<td width="50%" valign="top">
+
+**BACKEND & DATABASES**
+
+FastAPI · PostgreSQL · SQLite
+
+**DEVELOPMENT TOOLS**
+
+Git · GitHub · Linux · Docker · VS Code
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-`05 — GITHUB OVERVIEW`
+## LET'S CONNECT.
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hassankhizra97-crypto&show_icons=true&hide_border=true&theme=default&include_all_commits=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankhizra97-crypto&layout=compact&hide_border=true&theme=default&langs_count=6" height="165" alt="Language statistics"/>
-
-</div>
-
----
-
-<div align="center">
-
-**KHIZRA HASSAN**
-
-*Engineering through research, experimentation, and implementation.*
+Interested in machine learning, intelligent systems, research, and software engineering.
 
 <br/>
 
-<sub>BUILD WITH PURPOSE · LEARN CONTINUOUSLY · ENGINEER RESPONSIBLY</sub>
+[ GITHUB ↗ ](https://github.com/hassankhizra97-crypto) &nbsp; · &nbsp;
+[ LINKEDIN ↗ ](https://www.linkedin.com/in/khizra-hassan--/) &nbsp; · &nbsp;
+[ EMAIL ↗ ](mailto:khizra.hassan394@gmail.com)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-**BUILD · EXPERIMENT · IMPROVE**
-
-<sub>Always learning. Always building.</sub>
+<sub>KHIZRA HASSAN · COMPUTER SCIENCE · KARACHI, PAKISTAN</sub>
 
 </div>
