@@ -62,19 +62,18 @@ Karachi, Pakistan
 </td>
 <td width="62%" valign="top">
 
-I'm a Computer Science undergraduate interested in building intelligent systems and developing software that solves real problems.
+I'm a Computer Science undergraduate. I love taking concepts that exist on paper, figuring out how they work, and bringing them to life through code.
 
-I enjoy exploring how things work, experimenting with machine learning models, and turning technical ideas into practical implementations.
+From experimenting with machine learning models to building backend systems and exploring the stranger corners of AI, I'm happiest when I'm creating something that didn't exist before.
 
-**A few things I love working on:**
+**Things I love bringing to life:**
 
 - ♡ Machine Learning & Artificial Intelligence
-- ♡ AI safety and intelligent agents
-- ♡ Scalable Backend Systems
-- ♡ COOL STUFF
-  
+- ♡ AI Safety & Intelligent Agents
+- ♡ Backend Engineering & Scalable Systems
+- ♡ Turning random ideas into actual working software
 
-I LOVE GIVING THINGS A TECH LIFE.
+**I LOVE GIVING IDEAS A TECH LIFE.** ♡
 
 </td>
 </tr>
@@ -104,18 +103,16 @@ I LOVE GIVING THINGS A TECH LIFE.
 
 `AI SAFETY` · `AGENTIC AI` · `RESEARCH`
 
-Research into safety mechanisms for persistent, multi-session AI agents.
+A research project investigating safety risks in persistent, multi-session AI agents, focusing on how stored information can influence an agent's evolving beliefs, decisions, and actions.
 
-**What I worked on:**
+**Key contributions:**
+- Designed provenance-aware memory governance mechanisms.
+- Developed multi-session trajectory monitoring.
+- Introduced fail-closed action authorization.
+- Explored the belief-to-action provenance chain.
 
-- Provenance-aware memory governance.
-- Multi-session trajectory monitoring.
-- Fail-closed action authorization.
-- Belief-to-action provenance chain.
-
-*Research, architecture and experimental evaluation.*
-
-[VIEW PROJECT ↗](https://github.com/hassankhizra97-crypto/Memory-Aware-Agentic-Safety-Framework-MAASF-)
+*Presented the research abstract at the NED International Conference 2026.*
+[VIEW PROJECT ↗]([https://github.com/hassankhizra97-crypto/Memory-Aware-Agentic-Safety-Framework-MAASF-](https://lnkd.in/dxkwkvDV))
 
 </td>
 <td width="50%" valign="top">
@@ -130,10 +127,11 @@ A Mars terrain exploration project using NASA rover imagery and stereo-derived t
 
 **My ML contribution:**
 
-- Monocular depth-estimation models.
-- Model comparison and evaluation.
-- Stereo-based depth validation.
-- ML integration into terrain reconstruction.
+- Integrated Depth Anything V2 Small for Mars rover imagery.
+- Combined AI depth predictions with NASA stereo data.
+- Calibrated depth predictions and filled missing depth regions.
+- Developed depth-to-3D reconstruction using camera geometry.
+- Experimented with fine-tuning and evaluating depth models.
 
 *Machine learning and depth-estimation experimentation.*
 
