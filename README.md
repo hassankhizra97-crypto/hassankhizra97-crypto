@@ -8,7 +8,7 @@
 
 **COMPUTER SCIENCE STUDENT · CLAUDE & COFFEE · SOFTWARE DEVELOPER**
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3500&pause=1200&color=C47791&center=true&vCenter=true&width=650&lines=Building+things+with+curiosity+%E2%99%A1;Exploring+Machine+Learning+%26+AI.;Turning+ideas+into+working+software.;A+little+bit+of+logic%2C+a+lot+of+creativity." alt="Introduction"/>
+<img src="./adventurer-1795340147254.png" width="130" alt="Khizra's Picture"/>
 
 <br/>
 
