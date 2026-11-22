@@ -1,167 +1,163 @@
 <!--
-  GITHUB PROFILE README
-  Replace YOUR_GITHUB_USERNAME and all repository/contact placeholders.
+  MONOCHROME × EDITORIAL GITHUB PROFILE
+  Replace all placeholders before publishing.
 -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Computer+Science+Student;Machine+Learning+%26+AI+Enthusiast;Python+Backend+Developer;Building+Things+That+Matter." alt="Animated introduction" />
+# KHIZRA HASSAN
+
+**COMPUTER SCIENCE STUDENT · CODE AND COFFEE · SOFTWARE DEVELOPER**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17153B,50:433D8B,100:7E60BF&height=3&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=3000&pause=1200&color=888888&center=true&vCenter=true&width=650&lines=Building+intelligent+systems.;Exploring+Machine+Learning+%26+AI.;Engineering+reliable+backend+systems.;Learning+by+building." alt="Typing animation"/>
 
 <br/>
 
-**Exploring the intersection of Machine Learning, Backend Engineering & Computer Science.**
+[GitHub](https://github.com/hassankhizra97-crypto) &nbsp; / &nbsp;
+[LinkedIn](https://www.linkedin.com/in/khizra-hassan--/) &nbsp; / &nbsp;
+[Email](mailto:hassankhizra394@gmail.com)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
----
+## 01 / ABOUT
 
-## ✦ About Me
+I'm a Computer Science student interested in the intersection of intelligent systems and software engineering.
 
-I'm a Computer Science student interested in building practical software, exploring intelligent systems, and understanding how technology works under the hood.
+My work revolves around building practical applications, experimenting with machine learning models, and understanding the engineering behind reliable software.
 
-- 🧠 Exploring **Machine Learning, AI and intelligent systems**.
-- 🐍 Building backend applications with **Python**.
-- ⚙️ Working with **C++, Data Structures & Algorithms**.
-- 🔬 Interested in AI safety, computer vision and real-world ML applications.
-- 🚀 Currently developing projects that combine software engineering and applied research.
+- Interested in Machine Learning, AI safety and computer vision.
+- Building backend applications with Python.
+- Exploring database architecture and API development.
+- Strengthening foundations in C++, algorithms and systems programming.
 
-I enjoy building things, experimenting with ideas, and learning by implementing them.
-
----
-
-## ✦ Tech Stack
-
-**Languages**
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
-</p>
-
-**Backend & Databases**
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres,sqlite&theme=dark" />
-</p>
-
-**Machine Learning & AI**
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-</p>
-
-**Development Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman&theme=dark" />
-</p>
+**Current direction:** Machine Learning · Backend Engineering · Applied Research
 
 ---
 
-## ✦ Featured Projects
+## 02 / TECHNOLOGIES
 
-### 🧠 MAASF — Memory-Aware Agent Safety Framework
+**LANGUAGES**
 
-**AI Safety | Multi-Agent Systems | Research**
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=light" />
+</p>
 
-A research project exploring safety risks in persistent, multi-session AI agents.
+**BACKEND & DATABASES**
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite&theme=light" />
+</p>
+
+**MACHINE LEARNING**
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" />
+</p>
+
+**TOOLS & ENVIRONMENT**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=light" />
+</p>
+
+---
+
+## 03 / SELECTED WORK
+
+### 01. MAASF
+`AI SAFETY` `MULTI-SESSION AGENTS` `RESEARCH`
+
+A Memory-Aware Agent Safety Framework for persistent multi-session AI agents.
 
 - Provenance-aware memory governance.
 - Multi-session trajectory monitoring.
 - Fail-closed action authorization.
 - Belief-to-action provenance chain.
 
-**Focus:** Designing mechanisms to monitor how information stored in agent memory influences future decisions and actions.
+**Contribution:** Research, architecture and experimental evaluation.
 
-[Repository](YOUR_MAASF_REPOSITORY_URL) · [Research Paper](YOUR_PAPER_URL)
-
----
-
-### 🔴 Mars Terrain Explorer — 3D Reconstruction
-
-**Machine Learning | Computer Vision | Robotics**
-
-A Mars terrain exploration and navigation project using NASA imagery and stereo-derived terrain data.
-
-- Working with Mars rover imagery and terrain reconstruction.
-- Exploring monocular depth-estimation models.
-- Comparing AI-generated depth predictions with stereo-derived depth.
-- Supporting 3D terrain visualization and navigation.
-
-**My contribution:** Machine learning and depth-estimation experimentation.
-
-[Repository](https://github.com/Shamveel-Khan/mars-terrain-explorer)
+[VIEW PROJECT](https://github.com/hassankhizra97-crypto/Memory-Aware-Agentic-Safety-Framework-MAASF-)
 
 ---
 
-### 🥬 FridgeWise — Smart Fridge Management
+### 02. MARS TERRAIN EXPLORER
+`MACHINE LEARNING` `COMPUTER VISION` `3D RECONSTRUCTION`
 
-**Full-Stack Development | Python Backend | Database Engineering**
+A Mars terrain exploration project working with NASA rover imagery and stereo-derived terrain data.
 
-A web application for managing fridge inventory and tracking food expiry.
+- Experimenting with monocular depth-estimation models.
+- Comparing predicted depth against stereo-derived depth.
+- Supporting 3D terrain reconstruction and visualization.
 
-- Built the React frontend using Vite.
-- Developing a Python backend using FastAPI.
-- Working with PostgreSQL and SQLAlchemy.
-- Exploring database migrations, authentication and background scheduling.
+**Contribution:** Machine learning and depth-estimation experimentation.
 
-**Focus:** Building a practical full-stack application with a maintainable backend architecture.
-
-[Repository](YOUR_FRIDGEWISE_REPOSITORY_URL)
+[VIEW PROJECT](https://nasa-space-apps-project-green.vercel.app/)
 
 ---
 
-### ⚡ GridGuard — Power Grid Fault Detection Simulator
+<!--### 03. FRIDGEWISE
+`PYTHON` `FASTAPI` `POSTGRESQL` `FULL STACK`
 
-**C++ | Data Structures & Algorithms**
+A smart inventory management application designed to track food items and expiry dates.
 
-A C++ simulation project focused on identifying power-grid faults and simulating restoration operations.
+- React frontend development.
+- Python backend with FastAPI.
+- PostgreSQL database architecture.
+- Authentication, migrations and background scheduling.
 
-- Applying data structures and algorithms to a grid simulation.
-- Modeling faults and restoration workflows.
-- Exploring how algorithmic concepts solve practical engineering problems.
+**Focus:** Building maintainable backend systems.
 
-[Repository](YOUR_GRIDGUARD_REPOSITORY_URL)
+[VIEW PROJECT](YOUR_FRIDGEWISE_REPOSITORY_URL)-->
 
 ---
 
-## ✦ Coding Activity
+<!--### 04. GRIDGUARD
+`C++` `DATA STRUCTURES` `ALGORITHMS`
 
-I use coding projects and practical experimentation to continuously improve my engineering skills.
+A grid-based simulation project applying data structures and algorithms to infrastructure-related problems.
 
-<!-- WAKATIME: Replace YOUR_WAKATIME_USERNAME after setting up WakaTime -->
+- Modeling grid infrastructure.
+- Applying algorithmic problem-solving.
+- Exploring fault detection and restoration workflows.
+
+[VIEW PROJECT](YOUR_GRIDGUARD_REPOSITORY_URL)-->
+
+---
+
+## 04 / DEVELOPMENT ACTIVITY
 
 <div align="center">
 
-<a href="https://wakatime.com">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Weekly coding activity" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=333333&line=555555&point=000000&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
 
-<br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7E60BF&point=FFFFFF" width="100%" alt="GitHub contribution activity graph" />
+<!-- Optional WakaTime coding activity card.
+     Replace YOUR_WAKATIME_USERNAME.
+     Requires the stats service to support your WakaTime account.
+-->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=default&hide_border=true" alt="Coding activity"/>
 
 </div>
 
 ---
 
-## ✦ GitHub Highlights
+## 05 / GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7E60BF&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default&include_all_commits=true" height="150" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" height="150" alt="Most used languages"/>
 
 </div>
 
@@ -169,8 +165,8 @@ I use coding projects and practical experimentation to continuously improve my e
 
 <div align="center">
 
-### ✦ Always learning. Always building. ✦
+**BUILD · EXPERIMENT · IMPROVE**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17153B,50:433D8B,100:7E60BF&height=100&section=footer" width="100%" />
+<sub>Always learning. Always building.</sub>
 
 </div>
