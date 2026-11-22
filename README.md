@@ -29,7 +29,6 @@
 
 <div align="center">
 
-<sub>01 &nbsp; / &nbsp; A LITTLE ABOUT ME</sub>
 
 # Hello, I'm Khizra! ♡
 
@@ -73,7 +72,9 @@ From experimenting with machine learning models to building backend systems and 
 - ♡ Backend Engineering & Scalable Systems
 - ♡ Turning random ideas into actual working software
 
-**I LOVE GIVING IDEAS A TECH LIFE.** ♡
+<p align="center">
+  <strong><em><B>I LOVE GIVING IDEAS A TECH LIFE.</B></em></strong> ♡
+</p>
 
 </td>
 </tr>
@@ -85,11 +86,8 @@ From experimenting with machine learning models to building backend systems and 
 
 <div align="center">
 
-<sub>02 &nbsp; / &nbsp; THINGS I'VE BUILT</sub>
 
 # My Projects ♡
-
-*Little ideas, big learning curves.*
 
 </div>
 
@@ -112,7 +110,7 @@ A research project investigating safety risks in persistent, multi-session AI ag
 - Explored the belief-to-action provenance chain.
 
 *Presented the research abstract at the NED International Conference 2026.*
-[VIEW PROJECT ↗]([https://github.com/hassankhizra97-crypto/Memory-Aware-Agentic-Safety-Framework-MAASF-](https://lnkd.in/dxkwkvDV))
+[VIEW PROJECT ↗](https://lnkd.in/dxkwkvDV)
 
 </td>
 <td width="50%" valign="top">
@@ -192,7 +190,6 @@ A grid-based simulation project applying computer science concepts to infrastruc
 
 # Things I Work With ♡
 
-*My current technical toolkit.*
 
 </div>
 
@@ -224,7 +221,7 @@ A grid-based simulation project applying computer science concepts to infrastruc
 
 <div align="center">
 
-<sub>04 &nbsp; / &nbsp; A LITTLE NOTE</sub>
+
 
 # Always curious. Always creating. ♡
 
