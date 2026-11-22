@@ -231,16 +231,28 @@ A grid-based simulation project applying computer science concepts to infrastruc
 
 <br/><br/>
 
-### ୨୧ Large Language Models & Generative AI
 
-<img src="https://skillicons.dev/icons?i=pytorch,huggingface&theme=light" />
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-</p>
+<div align="center">
+
+### ୨୧ LLMs & AI Platforms
+
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" width="64" height="64" alt="OpenAI"/>
+&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/chatgpt.png" width="64" height="64" alt="ChatGPT"/>
+&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude.png" width="64" height="64" alt="Claude"/>
+&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/anthropic.png" width="64" height="64" alt="Anthropic"/>
+&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini.png" width="64" height="64" alt="Gemini"/>
+&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity.png" width="64" height="64" alt="Antigravity"/>
+&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openrouter.png" width="64" height="64" alt="OpenRouter"/>
+&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface.png" width="64" height="64" alt="Hugging Face"/>
+
+</div>
 
 
 ---
