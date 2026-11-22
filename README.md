@@ -4,11 +4,9 @@
   <sub>୨୧ &nbsp; KHIZRA'S LITTLE CORNER OF THE INTERNET &nbsp; ୨୧</sub>
 </p>
 
-<img src="./profile.jpg" width="180" alt="Khizra's Picture"/>
-
 # Khizra Hassan ♡
 
-**COMPUTER SCIENCE STUDENT · SOFTWARE DEVELOPER · ML/AI ENTHUSIAST**
+**COMPUTER SCIENCE STUDENT · CLAUDE & COFFEE · SOFTWARE DEVELOPER**
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3500&pause=1200&color=C47791&center=true&vCenter=true&width=650&lines=Building+things+with+curiosity+%E2%99%A1;Exploring+Machine+Learning+%26+AI.;Turning+ideas+into+working+software.;A+little+bit+of+logic%2C+a+lot+of+creativity." alt="Introduction"/>
 
@@ -16,7 +14,7 @@
 
 ♡ &nbsp; [HOME](#about) &nbsp; · &nbsp; [PROJECTS](#projects) &nbsp; · &nbsp; [TECH STACK](#technologies) &nbsp; · &nbsp; [CONTACT](#contact) &nbsp; ♡
 
-<br/>
+<br/></div>
 
 [GitHub ↗](https://github.com/hassankhizra97-crypto) &nbsp;&nbsp; 
 [LinkedIn ↗](https://www.linkedin.com/in/khizra-hassan--/)
