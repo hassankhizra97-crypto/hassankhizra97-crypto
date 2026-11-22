@@ -14,7 +14,7 @@
 
 ♡ &nbsp; [HOME](#about) &nbsp; · &nbsp; [PROJECTS](#projects) &nbsp; · &nbsp; [TECH STACK](#technologies) &nbsp; · &nbsp; [CONTACT](#contact) &nbsp; ♡
 
-<br/></div>
+<br/>
 
 [GitHub ↗](https://github.com/hassankhizra97-crypto) &nbsp;&nbsp; 
 [LinkedIn ↗](https://www.linkedin.com/in/khizra-hassan--/)
