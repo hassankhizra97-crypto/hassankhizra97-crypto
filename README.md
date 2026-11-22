@@ -6,7 +6,7 @@
 
 # Khizra Hassan ♡
 
-**COMPUTER SCIENCE STUDENT · ML ENTHUSIAST · SOFTWARE DEVELOPER**
+**COMPUTER SCIENCE STUDENT · CLAUDE · SOFTWARE DEVELOPER**
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3500&pause=1200&color=C47791&center=true&vCenter=true&width=650&lines=Building+things+with+curiosity+%E2%99%A1;Exploring+Machine+Learning+%26+AI.;Turning+ideas+into+working+software.;A+little+bit+of+logic%2C+a+lot+of+creativity." alt="Introduction"/>
 
@@ -70,11 +70,11 @@ I enjoy exploring how things work, experimenting with machine learning models, a
 
 - ♡ Machine Learning & Artificial Intelligence
 - ♡ AI safety and intelligent agents
-- ♡ Computer vision and depth estimation
-- ♡ Python backend development
-- ♡ Data structures and problem-solving
+- ♡ Scalable Backend Systems
+- ♡ COOL STUFF
+  
 
-Currently learning, building, experimenting and figuring things out one project at a time.
+I LOVE GIVING THINGS A TECH LIFE.
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ A Mars terrain exploration project using NASA rover imagery and stereo-derived t
 <tr>
 <td width="50%" valign="top">
 
-### ୨୧ FRIDGEWISE
+<!--### ୨୧ FRIDGEWISE
 
 **Smart Food Inventory Management**
 
@@ -190,7 +190,7 @@ A grid-based simulation project applying computer science concepts to infrastruc
 
 <div align="center">
 
-<sub>03 &nbsp; / &nbsp; MY TOOLBOX</sub>
+<sub>03 &nbsp; / &nbsp; MY TOOLBOX</sub>-->
 
 # Things I Work With ♡
 
