@@ -235,12 +235,12 @@ A grid-based simulation project applying computer science concepts to infrastruc
 
 <img src="https://skillicons.dev/icons?i=pytorch,huggingface&theme=light" />
 <br/>
-<img src="https://img.shields.io/badge/LLMs-8E6BBF?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-C47791?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-D98BA6?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Agents-9B8AC4?style=flat-square" />
-<img src="https://img.shields.io/badge/Model%20Evaluation-C47791?style=flat-square" />
-<img src="https://img.shields.io/badge/Inference-8E6BBF?style=flat-square" />
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
 
 
 ---
