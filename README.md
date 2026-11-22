@@ -189,7 +189,7 @@ A grid-based simulation project applying computer science concepts to infrastruc
 <sub>03 &nbsp; / &nbsp; MY TOOLBOX</sub>-->
 
 
-<div align="center">
+
 
 # Things I Work With ♡
 
@@ -247,7 +247,7 @@ A grid-based simulation project applying computer science concepts to infrastruc
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman,cmake&theme=light" />
 </p>
 
-</div>
+
 
 ---
 
