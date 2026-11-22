@@ -1,94 +1,84 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="left" width="30%">
-<b>KHIZRA<br/>HASSAN.</b>
-</td>
-<td align="center" width="45%">
-<a href="#home">HOME</a> &nbsp;&nbsp;
-<a href="#projects">PROJECTS</a> &nbsp;&nbsp;
-<a href="#about">ABOUT</a>
-</td>
-<td align="right" width="25%">
-<a href="mailto:khizra.hassan394@gmail.com">LET'S CONNECT ↗</a>
-</td>
-</tr>
-</table>
+<p>
+  <sub>୨୧ &nbsp; KHIZRA'S LITTLE CORNER OF THE INTERNET &nbsp; ୨୧</sub>
+</p>
 
----
+# Khizra Hassan ♡
 
-<a name="home"></a>
+**COMPUTER SCIENCE STUDENT · ML ENTHUSIAST · SOFTWARE DEVELOPER**
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=3500&pause=1200&color=C47791&center=true&vCenter=true&width=650&lines=Building+things+with+curiosity+%E2%99%A1;Exploring+Machine+Learning+%26+AI.;Turning+ideas+into+working+software.;A+little+bit+of+logic%2C+a+lot+of+creativity." alt="Introduction"/>
 
 <br/>
 
-<sub>● COMPUTER SCIENCE · MACHINE LEARNING · SOFTWARE ENGINEERING</sub>
-
-# BUILDING INTELLIGENT<br/>SYSTEMS & SOFTWARE.
-
-*Developing practical software through machine learning, research, and thoughtful engineering.*
+♡ &nbsp; [HOME](#about) &nbsp; · &nbsp; [PROJECTS](#projects) &nbsp; · &nbsp; [TECH STACK](#technologies) &nbsp; · &nbsp; [CONTACT](#contact) &nbsp; ♡
 
 <br/>
 
-[ VIEW PROJECTS ↘ ](#projects) &nbsp;&nbsp; [ GITHUB ↗ ](https://github.com/hassankhizra97-crypto) &nbsp;&nbsp; [ LINKEDIN ↗ ](https://www.linkedin.com/in/khizra-hassan--/)
+[GitHub ↗](https://github.com/hassankhizra97-crypto) &nbsp;&nbsp; 
+[LinkedIn ↗](https://www.linkedin.com/in/khizra-hassan--/)
 
 <br/>
+
+୨୧ ───────────────────────────── ୨୧
+
+</div>
+
+<a name="about"></a>
+
+<div align="center">
+
+<sub>01 &nbsp; / &nbsp; A LITTLE ABOUT ME</sub>
+
+# Hello, I'm Khizra! ♡
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="35%" valign="top">
+<td width="38%" valign="top">
+
+<div align="center">
 
 ### KHIZRA HASSAN
 
-`COMPUTER SCIENCE`
+<img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Khizra&backgroundColor=ffe4ec" width="130" alt="Cute illustrated avatar"/>
+
+**Computer Science Student**
 
 Karachi, Pakistan
 
----
-
-**DISCIPLINES**
-
-Machine Learning
-
-Backend Engineering
-
-Applied Research
-
----
-
-**CURRENT FOCUS**
-
-Intelligent Systems
-
-AI Safety
-
-Computer Vision
-
-</td>
-<td width="65%" valign="top">
-
-### PROFILE
-
-I am a Computer Science undergraduate interested in engineering intelligent systems and building reliable software.
-
-My work combines applied machine learning, experimental research, and backend development. I enjoy exploring complex technical problems and turning ideas into functional implementations.
-
 <br/>
 
-| AREA | FOCUS |
-|:---|:---|
-| MACHINE LEARNING | Model experimentation & evaluation |
-| AI RESEARCH | Agent safety & memory governance |
-| SOFTWARE | Backend architecture & APIs |
-| COMPUTER SCIENCE | Algorithms & systems programming |
+`machine learning`
+
+`backend development`
+
+`applied research`
+
+</div>
+
+</td>
+<td width="62%" valign="top">
+
+I'm a Computer Science undergraduate interested in building intelligent systems and developing software that solves real problems.
+
+I enjoy exploring how things work, experimenting with machine learning models, and turning technical ideas into practical implementations.
+
+**A few things I love working on:**
+
+- ♡ Machine Learning & Artificial Intelligence
+- ♡ AI safety and intelligent agents
+- ♡ Computer vision and depth estimation
+- ♡ Python backend development
+- ♡ Data structures and problem-solving
+
+Currently learning, building, experimenting and figuring things out one project at a time.
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ---
 
@@ -96,11 +86,11 @@ My work combines applied machine learning, experimental research, and backend de
 
 <div align="center">
 
-<sub>01 — SELECTED WORK</sub>
+<sub>02 &nbsp; / &nbsp; THINGS I'VE BUILT</sub>
 
-# PROJECTS
+# My Projects ♡
 
-*Selected research, engineering and development work.*
+*Little ideas, big learning curves.*
 
 </div>
 
@@ -108,29 +98,29 @@ My work combines applied machine learning, experimental research, and backend de
 <tr>
 <td width="50%" valign="top">
 
-### 01 / MAASF
+### ୨୧ MAASF
 
 **Memory-Aware Agent Safety Framework**
 
-`AI SAFETY` · `AGENTIC SYSTEMS`
+`AI SAFETY` · `AGENTIC AI` · `RESEARCH`
 
 Research into safety mechanisms for persistent, multi-session AI agents.
+
+**What I worked on:**
 
 - Provenance-aware memory governance.
 - Multi-session trajectory monitoring.
 - Fail-closed action authorization.
 - Belief-to-action provenance chain.
 
-**MY CONTRIBUTION**
+*Research, architecture and experimental evaluation.*
 
-Research, architecture and experimental evaluation.
-
-[EXPLORE PROJECT ↗](https://github.com/hassankhizra97-crypto/Memory-Aware-Agentic-Safety-Framework-MAASF-)
+[VIEW PROJECT ↗](https://github.com/hassankhizra97-crypto/Memory-Aware-Agentic-Safety-Framework-MAASF-)
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / MARS TERRAIN EXPLORER
+### ୨୧ MARS TERRAIN EXPLORER
 
 **3D Planetary Terrain Reconstruction**
 
@@ -138,51 +128,57 @@ Research, architecture and experimental evaluation.
 
 A Mars terrain exploration project using NASA rover imagery and stereo-derived terrain data.
 
-- Monocular depth estimation.
+**My ML contribution:**
+
+- Monocular depth-estimation models.
 - Model comparison and evaluation.
 - Stereo-based depth validation.
-- Integration with 3D terrain reconstruction.
+- ML integration into terrain reconstruction.
 
-**MY CONTRIBUTION**
+*Machine learning and depth-estimation experimentation.*
 
-Machine learning and depth-estimation experimentation.
-
-[EXPLORE PROJECT ↗](https://nasa-space-apps-project-green.vercel.app/)
+[VIEW PROJECT ↗](https://nasa-space-apps-project-green.vercel.app/)
 
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-<sub>02 — CURRENT ENGINEERING</sub>
-
-# WHAT I'M BUILDING
-
-</div>
+<br/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### FRIDGEWISE
+### ୨୧ FRIDGEWISE
 
-`BACKEND ENGINEERING` · `PYTHON`
+**Smart Food Inventory Management**
 
-A smart inventory management application focused on food tracking and expiry management.
+`PYTHON` · `FASTAPI` · `POSTGRESQL`
 
-Working with FastAPI, PostgreSQL, SQLAlchemy and database migrations.
+An application for tracking household food inventory and expiry dates.
+
+- REST API development.
+- PostgreSQL database architecture.
+- SQLAlchemy and Alembic migrations.
+- Authentication and background scheduling.
+
+*Currently developing the backend architecture.*
 
 </td>
 <td width="50%" valign="top">
 
-### GRIDGUARD
+### ୨୧ GRIDGUARD
 
-`C++` · `DATA STRUCTURES`
+**Infrastructure Simulation**
 
-An infrastructure-focused simulation project applying data structures and algorithmic problem-solving to grid management and fault-handling workflows.
+`C++` · `DSA` · `ALGORITHMS`
+
+A grid-based simulation project applying computer science concepts to infrastructure management.
+
+- Grid infrastructure modelling.
+- Data structure implementation.
+- Algorithmic problem-solving.
+- Fault detection and restoration workflows.
 
 </td>
 </tr>
@@ -190,59 +186,62 @@ An infrastructure-focused simulation project applying data structures and algori
 
 ---
 
-<a name="about"></a>
+<a name="technologies"></a>
 
 <div align="center">
 
-<sub>03 — TECHNICAL PROFILE</sub>
+<sub>03 &nbsp; / &nbsp; MY TOOLBOX</sub>
 
-# TOOLS & TECHNOLOGIES
+# Things I Work With ♡
+
+*My current technical toolkit.*
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**୨୧ Programming Languages**
 
-**PROGRAMMING**
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=light" />
+</p>
 
-Python · C++ · C
+**୨୧ Machine Learning & Computer Vision**
 
-**MACHINE LEARNING**
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" />
+</p>
 
-PyTorch · OpenCV
+**୨୧ Backend & Databases**
 
-</td>
-<td width="50%" valign="top">
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite&theme=light" />
+</p>
 
-**BACKEND & DATABASES**
+**୨୧ Development Tools**
 
-FastAPI · PostgreSQL · SQLite
-
-**DEVELOPMENT TOOLS**
-
-Git · GitHub · Linux · Docker · VS Code
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=light" />
+</p>
 
 ---
 
 <div align="center">
 
-## LET'S CONNECT.
+<sub>04 &nbsp; / &nbsp; A LITTLE NOTE</sub>
 
-Interested in machine learning, intelligent systems, research, and software engineering.
+# Always curious. Always creating. ♡
+
+Currently exploring the world of machine learning, intelligent systems and software engineering.
+
+<a name="contact"></a>
+
+### Let's connect!
+
+[GitHub](https://github.com/hassankhizra97-crypto) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/khizra-hassan--/) &nbsp; · &nbsp; [Email](mailto:khizra.hassan394@gmail.com)
 
 <br/>
 
-[ GITHUB ↗ ](https://github.com/hassankhizra97-crypto) &nbsp; · &nbsp;
-[ LINKEDIN ↗ ](https://www.linkedin.com/in/khizra-hassan--/) &nbsp; · &nbsp;
-[ EMAIL ↗ ](mailto:khizra.hassan394@gmail.com)
+୨୧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ୨୧
 
-<br/>
-
-<sub>KHIZRA HASSAN · COMPUTER SCIENCE · KARACHI, PAKISTAN</sub>
+<sub>made with curiosity & a little bit of pink ♡</sub>
 
 </div>
