@@ -188,77 +188,68 @@ A grid-based simulation project applying computer science concepts to infrastruc
 
 <sub>03 &nbsp; / &nbsp; MY TOOLBOX</sub>-->
 
+
+<div align="center">
+
 # Things I Work With ♡
 
-
-</div>
-
-**୨୧ Programming Languages**
+### ୨୧ Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,sql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,sql&theme=light" />
 </p>
 
 ### ୨୧ Machine Learning & Artificial Intelligence
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-
-<br/><br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
 ### ୨୧ Backend Development & Databases
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres,mysql,sqlite&theme=light" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/Alembic-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-6B8E9B?style=flat-square" />
-
-<br/><br/>
-
-### ୨୧ Development Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman,cmake&theme=light" />
-
-<br/><br/>
-
-
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres,mysql,sqlite&theme=light" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-333333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-6B8E9B?style=flat-square" />
+</p>
 
 ### ୨୧ LLMs & AI Platforms
 
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" width="64" height="64" alt="OpenAI"/>
-&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/chatgpt.png" width="64" height="64" alt="ChatGPT"/>
-&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude.png" width="64" height="64" alt="Claude"/>
-&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/anthropic.png" width="64" height="64" alt="Anthropic"/>
-&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini.png" width="64" height="64" alt="Gemini"/>
-&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity.png" width="64" height="64" alt="Antigravity"/>
-&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openrouter.png" width="64" height="64" alt="OpenRouter"/>
-&nbsp;
-<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface.png" width="64" height="64" alt="Hugging Face"/>
+<p>
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" width="48" height="48" alt="OpenAI" />
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude.png" width="48" height="48" alt="Claude" />
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/anthropic.png" width="48" height="48" alt="Anthropic" />
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini.png" width="48" height="48" alt="Gemini" />
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/antigravity.png" width="48" height="48" alt="Antigravity" />
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openrouter.png" width="48" height="48" alt="OpenRouter" />
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface.png" width="48" height="48" alt="Hugging Face" />
+</p>
+
+### ୨୧ Development Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman,cmake&theme=light" />
+</p>
 
 </div>
 
-
 ---
-
-<div align="center">
-
 
 
 # Always curious. Always creating. ♡
