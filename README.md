@@ -111,6 +111,7 @@ A research project investigating safety risks in persistent and multi-session AI
 - Explored the belief-to-action provenance chain.
 
 *Presented the research abstract at the NED International Conference 2026.*
+*AI Psychosis: Exploring the Potential Relationship Between Conversational AI and Delusional Thinking.*
 [VIEW PROJECT ↗](https://lnkd.in/dxkwkvDV)
 
 </td>
