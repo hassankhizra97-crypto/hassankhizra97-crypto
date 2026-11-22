@@ -61,18 +61,20 @@ Karachi, Pakistan
 </td>
 <td width="62%" valign="top">
 
-I'm a Computer Science undergraduate. I love taking concepts that exist on paper, figuring out how they work, and bringing them to life through code.
+I'm a Computer Science undergraduate who loves turning ideas into working software through code, experimentation, and engineering.
 
+<br/>
 
-**Things I love bringing to life:**
-
-- ♡ Machine Learning & Artificial Intelligence
+**Things I love working on:**
+- ♡ Machine Learning & AI
 - ♡ AI Safety & Intelligent Agents
 - ♡ Backend Engineering & Scalable Systems
-- ♡ Turning random ideas into actual working software
+- ♡ Building ideas into real-world applications
+
+<br/>
 
 <p align="center">
-  <strong><em><B>I LOVE GIVING IDEAS A TECH LIFE.</B></em></strong> ♡
+  <strong><em>I LOVE GIVING IDEAS A TECH LIFE. ♡</em></strong>
 </p>
 
 </td>
@@ -100,7 +102,7 @@ I'm a Computer Science undergraduate. I love taking concepts that exist on paper
 
 `AI SAFETY` · `AGENTIC AI` · `RESEARCH`
 
-A research project investigating safety risks in persistent, multi-session AI agents, focusing on how stored information can influence an agent's evolving beliefs, decisions, and actions.
+A research project investigating safety risks in persistent and multi-session AI agent.
 
 **Key contributions:**
 - Designed provenance-aware memory governance mechanisms.
@@ -230,14 +232,10 @@ A grid-based simulation project applying computer science concepts to infrastruc
 
 <br/><br/>
 
-<br/><br/>
-
 ### ୨୧ Large Language Models & Generative AI
 
 <img src="https://skillicons.dev/icons?i=pytorch,huggingface&theme=light" />
-
 <br/>
-
 <img src="https://img.shields.io/badge/LLMs-8E6BBF?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-C47791?style=flat-square" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-D98BA6?style=flat-square" />
