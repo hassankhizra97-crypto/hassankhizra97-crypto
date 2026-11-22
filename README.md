@@ -111,7 +111,6 @@ A research project investigating safety risks in persistent and multi-session AI
 - Explored the belief-to-action provenance chain.
 
 *Presented the research abstract at the NED International Conference 2026.*
-*AI Psychosis: Exploring the Potential Relationship Between Conversational AI and Delusional Thinking.*
 [VIEW PROJECT ↗](https://lnkd.in/dxkwkvDV)
 
 </td>
@@ -132,9 +131,7 @@ A Mars terrain exploration project using NASA rover imagery and stereo-derived t
 - Calibrated depth predictions and filled missing depth regions.
 - Developed depth-to-3D reconstruction using camera geometry.
 - Experimented with fine-tuning and evaluating depth models.
-
-*Machine learning and depth-estimation experimentation.*
-
+- 
 [VIEW PROJECT ↗](https://nasa-space-apps-project-green.vercel.app/)
 
 </td>
