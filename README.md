@@ -63,7 +63,6 @@ Karachi, Pakistan
 
 I'm a Computer Science undergraduate. I love taking concepts that exist on paper, figuring out how they work, and bringing them to life through code.
 
-From experimenting with machine learning models to building backend systems and exploring the stranger corners of AI, I'm happiest when I'm creating something that didn't exist before.
 
 **Things I love bringing to life:**
 
@@ -196,26 +195,56 @@ A grid-based simulation project applying computer science concepts to infrastruc
 **୨୧ Programming Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,sql&theme=light" />
 </p>
 
-**୨୧ Machine Learning & Computer Vision**
+### ୨୧ Machine Learning & Artificial Intelligence
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light" />
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light" />
 
-**୨୧ Backend & Databases**
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite&theme=light" />
-</p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
-**୨୧ Development Tools**
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=light" />
-</p>
+### ୨୧ Backend Development & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,postgres,mysql,sqlite&theme=light" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/Alembic-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-6B8E9B?style=flat-square" />
+
+<br/><br/>
+
+### ୨୧ Development Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman,cmake&theme=light" />
+
+<br/><br/>
+
+<br/><br/>
+
+### ୨୧ Large Language Models & Generative AI
+
+<img src="https://skillicons.dev/icons?i=pytorch,huggingface&theme=light" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLMs-8E6BBF?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-C47791?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-D98BA6?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Agents-9B8AC4?style=flat-square" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-C47791?style=flat-square" />
+<img src="https://img.shields.io/badge/Inference-8E6BBF?style=flat-square" />
+
 
 ---
 
